@@ -52,6 +52,10 @@
 
 <img width="1221" height="708" alt="2dcd5339-e17b-4d72-89c7-19391ee944c9" src="https://github.com/user-attachments/assets/52871585-ee31-4f03-98b9-f53904585178" />
 
+## 实测效果
+
+<img width="729" height="629" alt="image" src="https://github.com/user-attachments/assets/32060c6c-179d-4d33-804f-c68eed4bb6d4" />
+
 ---
 
 ## 客户端推荐
